@@ -1,3 +1,25 @@
 body{
-    background-color:rgb(118, 181, 197)
+    background-color:rgb(118, 181, 197);
+    font-family: serif;
+    color:black;
+}
+.white-back{
+    background-color:white;
+    margin: 50px;
+    padding: 20px;
+    border: 5px black solid;
+}
+#pic{
+    border: 30px blue ridge;
+}
+.bold{
+    font-weight:bold;
+    color: blue;
+}
+.link{
+    font-family:monospace;
+
+}
+a{
+    color:red;
 }
